@@ -1,0 +1,14 @@
+* {
+	background-color: #000000
+}
+
+.WhatsYourNameButton {
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+display: flex;
+font-family: 'IBM Plex Mono', monospace;
+font-size: 32px;
+-webkit-background-clip: text;
+color: #FFFFFF
+}
